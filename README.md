@@ -3,7 +3,7 @@
 This is a simple browser-based calculator built as part of The Odin Project Foundations course.
 
 ## 🚀 Live Demo
-(Add your GitHub Pages link here if deployed)
+https://sayalikale318.github.io/odin-calculator/
 
 ---
 
